@@ -44,11 +44,6 @@ type resource
 1. **Clone the repository**
 
 
-
-2. **Install dependencies**
-
-
-
 3. **Setup environment variables**
 
 Create a `.env` file based on the provided `.env.example` file:
@@ -57,3 +52,6 @@ Update the values in the `.env` file according to your setup.
 4. **Set up the MySQL database**
 
 Create the required database and tables:
+
+5. **postman test**
+test file also given within root folder
